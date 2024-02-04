@@ -14,6 +14,7 @@
   
 ## Linguagem
    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+   <img align="center" alt="JS" height="40" width="50" src=" <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />" />
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/karen-y-274754265/)
