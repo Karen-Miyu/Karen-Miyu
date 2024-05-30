@@ -11,10 +11,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karen-Miyu/Karen-Miyu/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-  
-## Linguagem
-   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-   <img display="flex" align-items="left" alt="JS" height="40" width="50" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
+
+</br></br>
+## Informações
+[![Karen-Miyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=karen-miyu&theme=highcontrast)](https://github.com/Karen-Miyu/github-readme-stats)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/karen-y-274754265/)
