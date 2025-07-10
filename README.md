@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C90F5&height=120&section=header&background=000000"/>
-<a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Mona+Code&size=18&duration=3800&pause=1000&color=406D8F&center=true&vCenter=true&width=435&lines=Hi,+I'm+Karen+Yuzawa;I'm+Developer!+ヾ(^▽^*))" alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,18&height=120&section=header&background=000000"/>
+<a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Tektur&size=18&duration=3800&pause=1000&color=b06ab3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Karen+Yuzawa;I'm+Developer!+ヾ(^▽^*))" alt="Typing SVG" /></a>
 <br>
 <br>
 <h2>Índice</h2>
