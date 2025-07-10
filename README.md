@@ -1,5 +1,25 @@
-# Karen-Miyu
+<h2>Índice</h2>
 
+- [Sobre Mim](#sobre-mim)
+- [Habilidades](#habilidades)
+          
+# Sobre Mim
+<p>Olá! Me chamo Karen, estudante em análise de desenvolvimento de sistema, e estou procurando por oportunidades de estagiar em desenvolvimento web, relacionadas com o frontend.</p>
+
+# Habilidades
+<h2>Linguagens</h2>
+<div>
+    <img align=center  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width=6% />  
+    <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=6% />
+  <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=8% />
+  <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width=6% />
+  <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=6% />
+  <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=6% />
+ <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width=9% />
+ <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width=7% />   
+</div>
+
+# Contatos
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C90F5&height=120&section=header&background=000000"/>
 <a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Mona+Code&size=18&duration=3800&pause=1000&color=406D8F&center=true&vCenter=true&width=435&lines=Hi,+I'm+Karen+Yuzawa;Be+welcome!+(●'◡'●)" alt="Typing SVG" /></a>
 <br>
