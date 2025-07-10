@@ -1,7 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C90F5&height=120&section=header&background=000000"/>
+<a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Mona+Code&size=18&duration=3800&pause=1000&color=406D8F&center=true&vCenter=true&width=435&lines=Hi,+I'm+Karen+Yuzawa;I'm+Developer!+ヾ(^▽^*))" alt="Typing SVG" /></a>
+<br>
+<br>
 <h2>Índice</h2>
 
 - [Sobre Mim](#sobre-mim)
 - [Habilidades](#habilidades)
+- [Contatos](#contatos)
           
 # Sobre Mim
 <p>Olá! Me chamo Karen, estudante em análise de desenvolvimento de sistema, e estou procurando por oportunidades de estagiar em desenvolvimento web, relacionadas com o frontend.</p>
@@ -20,9 +25,9 @@
 </div>
 
 # Contatos
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C90F5&height=120&section=header&background=000000"/>
-<a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=Mona+Code&size=18&duration=3800&pause=1000&color=406D8F&center=true&vCenter=true&width=435&lines=Hi,+I'm+Karen+Yuzawa;Be+welcome!+(●'◡'●)" alt="Typing SVG" /></a>
-<br>
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:karen.myuzawa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/karen-y-274754265/)
+
 <br>
 <div align="center">
 </div>
@@ -31,8 +36,7 @@
 ## Informações
 [![Karen-Miyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=karen-miyu&theme=highcontrast)](https://github.com/Karen-Miyu/github-readme-stats)
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/karen-y-274754265/)
+
 <!--
 **Karen-Miyu/Karen-Miyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
