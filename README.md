@@ -7,6 +7,7 @@
 - [Sobre Mim](#sobre-mim)
 - [Habilidades](#habilidades)
 - [Contatos](#contatos)
+- [Estatísticas](#estatísticas)
           
 # Sobre Mim
 <p>Olá! Me chamo Karen, estudante em análise de desenvolvimento de sistema, e estou procurando por oportunidades de estagiar em desenvolvimento web, relacionadas com o frontend.</p>
@@ -28,18 +29,12 @@
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:karen.myuzawa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/karen-y-274754265/)
 
-<br>
-<div align="center">
-</div>
-
-</br></br>
-## Informações
+## Estatísticas
 [![Karen-Miyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=karen-miyu&theme=highcontrast)](https://github.com/Karen-Miyu/github-readme-stats)
+<br>
 
 
 <!--
-**Karen-Miyu/Karen-Miyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
